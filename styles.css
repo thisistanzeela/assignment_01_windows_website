@@ -1,0 +1,50 @@
+#header{
+    background-image: url('images/brand.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-family:'Segoe UI';
+    font-weight: lighter;
+}
+.features-li{
+    text-align:left;
+    margin-left: 4rem;
+}
+a{
+    text-decoration: none;
+}
+.button{
+    background-color: blue;
+    color: white;
+    padding:  5px 20px;
+    margin: 10px;
+    border: none;
+}
+table{
+    text-align: left;
+    
+}
+tr{
+   margin-left: 3rem;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+
+.cont{
+    
+}
